@@ -6,4 +6,4 @@ The complex GNN and ANN models share some of the cell blocks. These cell blocks 
 
 The cell blocks needed to run the GNN and ANN models are the ones contain the run_gnn_cont and run_flat_cont functions. After they have been run the following cell block will generate the corresponding confusion matrix.
 
-Copy of Report: https://drive.google.com/file/d/18M5tG_MNOuBVA4MisaEArsEmxQJOd6Jd/view?usp=sharing
+[Copy of Report](https://drive.google.com/file/d/18M5tG_MNOuBVA4MisaEArsEmxQJOd6Jd/view?usp=sharing)
